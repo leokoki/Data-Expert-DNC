@@ -1,13 +1,13 @@
-Holiday;DayWeek
-Super Bowl;12/02/2010
-Labour Day;10/09/2010
-Thanksgiving;26/11/2010
-Christmas;31/12/2010
-Super Bowl;12/02/2011
-Labour Day;10/09/2011
-Thanksgiving;26/11/2011
-Christmas;31/12/2011
-Super Bowl;12/02/2012
-Labour Day;10/09/2012
-Thanksgiving;26/11/2012
-Christmas;31/12/2012
+DayWeek;Holyday
+12/02/2010;Super Bowl
+10/09/2010;Labour Day
+26/11/2010;Thanksgiving
+31/12/2010;Christmas
+12/02/2011;Super Bowl
+10/09/2011;Labour Day
+26/11/2011;Thanksgiving
+31/12/2011;Christmas
+12/02/2012;Super Bowl
+10/09/2012;Labour Day
+26/11/2012;Thanksgiving
+31/12/2012;Christmas
